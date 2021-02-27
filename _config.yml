@@ -1,7 +1,7 @@
 # Setup
 title:               meleu
 tagline:             'Today I Learned'
-description:         'A microblog to dump small things I've been learning'
+description:         'A microblog to dump small things I am learning'
 url:                 http://meleu.github.io/lanyon
 baseurl:             '/lanyon/'
 paginate:            5
