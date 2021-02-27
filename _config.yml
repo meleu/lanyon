@@ -3,7 +3,7 @@ title:               meleu
 tagline:             'Today I Learned'
 description:         'A microblog to dump small things I am learning'
 url:                 http://meleu.github.io/lanyon
-baseurl:             '/lanyon/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
